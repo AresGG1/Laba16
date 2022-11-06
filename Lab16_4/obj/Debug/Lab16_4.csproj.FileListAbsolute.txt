@@ -1,0 +1,7 @@
+C:\rofl\Lab16\Lab16_4\obj\Debug\Lab16_4.csproj.AssemblyReference.cache
+C:\rofl\Lab16\Lab16_4\obj\Debug\Lab16_4.csproj.SuggestedBindingRedirects.cache
+C:\rofl\Lab16\Lab16_4\obj\Debug\Lab16_4.csproj.CoreCompileInputs.cache
+C:\rofl\Lab16\Lab16_4\bin\Debug\Lab16_4.exe
+C:\rofl\Lab16\Lab16_4\bin\Debug\Lab16_4.pdb
+C:\rofl\Lab16\Lab16_4\obj\Debug\Lab16_4.exe
+C:\rofl\Lab16\Lab16_4\obj\Debug\Lab16_4.pdb
